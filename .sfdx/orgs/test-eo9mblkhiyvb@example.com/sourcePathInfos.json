@@ -1,0 +1,1082 @@
+[
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532489715780,
+            "changeTime": 1532489715780,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532489715780,
+            "changeTime": 1532489715780,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391730,
+            "changeTime": 1532493391730,
+            "contentHash": "afaad4df950614fbd0e3ef4a654a21ef81a5c425",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532489715780,
+            "changeTime": 1532489715780,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "33972cce465534a52d2b49630d4695ad890751ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/InstallationTests.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/InstallationTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 427,
+            "modifiedTime": 1532493391634,
+            "changeTime": 1532493391634,
+            "contentHash": "bbeebee56f6f03cc06f70206ee5e31a3361adfe8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391634,
+            "changeTime": 1532493391634,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/MaintenanceRequestHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/MaintenanceRequestHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 137,
+            "modifiedTime": 1532493391638,
+            "changeTime": 1532493391638,
+            "contentHash": "9a5e6a5f36618f8d7f8fbf7ef5ca0281ce561b57",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/MaintenanceRequestHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/MaintenanceRequestHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391638,
+            "changeTime": 1532493391638,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutService.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 351,
+            "modifiedTime": 1532493391638,
+            "changeTime": 1532493391638,
+            "contentHash": "8286c691e65619ce0634fb8fb7bc9302748ea534",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutService.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391638,
+            "changeTime": 1532493391638,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 79,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "ab56645150c467903698af8f81bd43bec1bdb9b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391638,
+            "changeTime": 1532493391638,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "5d9dcef52e1b264b90bb0ee8f4e711697e5df727",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseSyncSchedule.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseSyncSchedule.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 73,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "c44ea54c3c2063b9280102523c7ec3219a7ba0ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532493391642,
+            "changeTime": 1532493391642,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391666,
+            "changeTime": 1532493391666,
+            "contentHash": "c6c8aa4766cc560f6c22ce3076d8298ef401b514",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Case-Case %28HowWeRoll%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Case-Case %28HowWeRoll%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9390,
+            "modifiedTime": 1532493391654,
+            "changeTime": 1532493391654,
+            "contentHash": "9d29ff1f1f24ba4f8956abf42289e156cae41b7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Product2-Product %28HowWeRoll%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Product2-Product %28HowWeRoll%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4479,
+            "modifiedTime": 1532493391658,
+            "changeTime": 1532493391658,
+            "contentHash": "a6b51f9db2119fae122600d47aff4e1f26176696",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Vehicle__c-Vehicle Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Vehicle__c-Vehicle Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6421,
+            "modifiedTime": 1532493391662,
+            "changeTime": 1532493391662,
+            "contentHash": "4631355b68c65aa2befd02fa275f9c9561dc29ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Work_Part__c-Work Part Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/layouts/Work_Part__c-Work Part Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2219,
+            "modifiedTime": 1532493391666,
+            "changeTime": 1532493391666,
+            "contentHash": "2b7b1e67f069f7480bf0f3d0a9b9ad8333db89a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "849e5cdfac533ac925cc879136904a760227541c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "e4b62bc1a1f27e8dea5044be3ed259ec79aa174d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Date_Due__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Date_Due__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "e1ef1626ad2c26bda3513477fde4c28624b007a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Date_Reported__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Date_Reported__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "1429d7cdb7534807a0b08a408dd2860680cb4e80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Equipment__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Equipment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 600,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "3c12744acedec8a318f4ff324f7fdb4a75d41fb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Vehicle__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Case/fields/Vehicle__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 583,
+            "modifiedTime": 1532493391674,
+            "changeTime": 1532493391674,
+            "contentHash": "0ae7ba8f3227e2d8ea34545eb4ee5939d53b4950",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "05292088605a12ec941405d14676a8b4ad809aaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Cost__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "85c1a9870a8971471579fe9a5b9d6efd046c1dc7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Current_Inventory__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Current_Inventory__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "ab57100a5a20dbed64a75d2f18f53c870055d3c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Lifespan_Months__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Lifespan_Months__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "175d1834cc1bc6699bdbb9daba6163055862d8ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Maintenance_Cycle__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Maintenance_Cycle__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "71114caf7cb44a0aea0b4fa3b1b10719e81aa0a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Replacement_Part__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Replacement_Part__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "77994a2e934117790b41a183b03cdb15daa5763d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Warehouse_SKU__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Product2/fields/Warehouse_SKU__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1532493391682,
+            "changeTime": 1532493391682,
+            "contentHash": "7c3a4bc8b723f894ea88336601d0a73b2f17c812",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "75afa113f55ba5f9f72b10ce89115e34d01052ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/Vehicle__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/Vehicle__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2114,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "b162168c680a8f4afa9f78afcb107c87c5617ac9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "0107283465875b4747bd00023895213604ab17c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Air_Conditioner__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Air_Conditioner__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "979f5fa9dbc4dcb239a53ef44b5be686b9ea5f40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Awning__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Awning__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 965,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "9b9b54a6dc5a2a15abfac2a362663a1223fd2bb6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Backup_Camera_Monitor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Backup_Camera_Monitor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "8054b8e34cafc244f2c80b60fdd6a7cf687f6f6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bathroom_Hookup__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bathroom_Hookup__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1026,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "6303669a8c074d28930705870d7736ea08dc741a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bathrooms__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bathrooms__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 430,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "11a0d315e098316546d7272a79868a3f19e023d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bedrooms__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Bedrooms__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 428,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "d08c4cbcd5ad0b3c1654cf23b4fdc9f304661c1d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Fancy_Sound_System__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Fancy_Sound_System__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "53e2e2c9672e9b1c11e1107abc68af33b540f599",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Generator__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Generator__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "612456f5a819fdd11b7af9ce8b15c9b7b84a9312",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Levelers__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Levelers__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 812,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "b907c3d31ab7b06e3d36cb2093839816c9d48de1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/License_Plate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/License_Plate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 411,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "462e593c665cece410e08fecaf37db7adfe2f6db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Make__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Make__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "e7c2696c2ccb1f05257c6791407658dccb4a2700",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Model__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Model__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "7e6edec62c55287e37b37e2d152aa052239c2b30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Power__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Power__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1038,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "19810fea4b3b6200985723aede126b77c7afbde8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Propane_Tank__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Propane_Tank__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1532493391706,
+            "changeTime": 1532493391706,
+            "contentHash": "227ceb1b9cae033217bc28ef0a11cb6df90d57b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Recommended_Passengers__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Recommended_Passengers__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 456,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "2b103c84986c0aacd9d6027105c7afe6f8e4e878",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Roof_Mounted_Antenna__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Roof_Mounted_Antenna__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "31991691259d6121cdbde90664f3c0c65690bf7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Shower__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Shower__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "d545b5c6d7681d41d1b71fca77a8b11301573e4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Tub__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Tub__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 351,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "30e7e5794aa1bab865dcf811282c7eb4f25f829b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 970,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "4da9bbc7b0fe6c6c9c7ab4a4bfc12f0942f9f181",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/VIN_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/fields/VIN_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "8d8cae81f3a86d1a38a9c910def9097ac122fd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Vehicle__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1532493391710,
+            "changeTime": 1532493391710,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "d468c92b8923e9d671e0533a5932b7eda624b031",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/Work_Part__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/Work_Part__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2178,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "bd0d29f7046a4766fde5efe95bba0d6427bea8fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "8e86401bfbac8fef64f72e3fcfd39112c1ee3df9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Equipment__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Equipment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 914,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "40d20f03b1e93af86a2a299e091c523c8d8a9c01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Maintenance_Request__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Maintenance_Request__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 659,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "2a31938af4d1e15b3ada7f57cc1aa7cd3cd6c03f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Quantity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/objects/Work_Part__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 429,
+            "modifiedTime": 1532493391726,
+            "changeTime": 1532493391726,
+            "contentHash": "e1f1fc6ce562e0b0429734d7106bafe73a3fab5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493391730,
+            "changeTime": 1532493391730,
+            "contentHash": "f16f26a99505c5f97c8bef250ebbf0d6d2c5e763",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers/MaintenanceRequest.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers/MaintenanceRequest.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 124,
+            "modifiedTime": 1532493391730,
+            "changeTime": 1532493391730,
+            "contentHash": "74fc9c268f49b27066c645c0b9c5a9e418d9b4f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1532493391730,
+            "changeTime": 1532493391730,
+            "contentHash": "2115b531a3bfa715698b872335a50aa51f03682b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/elangovan/my_sfdx_project/howweroll",
+        {
+            "state": "u",
+            "sourcePath": "/home/elangovan/my_sfdx_project/howweroll",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1532493593883,
+            "changeTime": 1532493593883,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
